@@ -1,6 +1,6 @@
 # GAN
 Demo&amp;Learning
-Environment: Anaconda 3.6.4 + 2070 + Tensorflow 1.14.0 (CPU & GPU) + Cuda10+cuDNN+Keras
+Environment: Anaconda 3.6.4 + RTX2070 + Tensorflow 1.14.0 (CPU & GPU) + Cuda10+cuDNN+Keras
 DATA
 ===========================================================================================
 Extra Data Download :
