@@ -35,5 +35,8 @@ different to GAN:
 
 4.using RMSProp,SGD and so on , dont use momentum or Adam
 
+![image](https://user-images.githubusercontent.com/20764935/62004997-5a822980-b15f-11e9-863b-87016976eeba.png)
+![image](https://user-images.githubusercontent.com/20764935/62004999-5d7d1a00-b15f-11e9-9db0-adf3270e0f0a.png)
+![image](https://user-images.githubusercontent.com/20764935/62005000-60780a80-b15f-11e9-80ea-605ab23bacae.png)
 
 
