@@ -3,7 +3,7 @@ Demo&amp;Learning
 Environment: Anaconda 3.6.4 + RTX2070 + Tensorflow 1.14.0 (CPU & GPU) + Cuda10+cuDNN+Keras
 DATA
 ===========================================================================================
-Extra Data Download :
+Extra Data Set Download :
 https://drive.google.com/file/d/1PIMW6Cv2r4X95nwCqZ14AcgJszm5nMk3/view
 
 Reference:
