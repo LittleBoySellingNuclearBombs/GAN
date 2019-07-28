@@ -40,3 +40,19 @@ different to GAN:
 ![image](https://user-images.githubusercontent.com/20764935/62005000-60780a80-b15f-11e9-80ea-605ab23bacae.png)
 ![image](https://user-images.githubusercontent.com/20764935/62005009-78e82500-b15f-11e9-8a03-2b3d9215eccc.png)
 
+Result(CGAN):
+=============================================================================================
+add the label with noise to training :
+
+1orange hair blue eyes 
+
+2red hair orange eyes
+
+3blue hair blue eyes
+
+4green hair pink eyes
+
+5blonde hair green eyes
+
+![image](https://user-images.githubusercontent.com/20764935/62005089-818d2b00-b160-11e9-8e9e-9afcfe2e9fa6.png)
+![image](https://user-images.githubusercontent.com/20764935/62005090-8651df00-b160-11e9-9087-39065144533b.png)
