@@ -20,3 +20,14 @@ it so difficulty to training (vanishing gradient)& it is easily  mode collapse
 ![image](https://user-images.githubusercontent.com/20764935/62004412-61a53980-b157-11e9-92f7-0f941fda4be2.png)
 ![image](https://user-images.githubusercontent.com/20764935/62004413-64a02a00-b157-11e9-8196-384791d8d9de.png)
 ![image](https://user-images.githubusercontent.com/20764935/62004415-67028400-b157-11e9-89bc-94eec9d0b479.png)
+
+Result(WGAN):
+=============================================================================================
+solve the problem "vanishing gradient" & "mode collapse"
+just :
+1.remove the sigmoid in the last layer in D
+2.remove log
+3.setting the weight between -a and a
+4.using RMSProp,SGD and so on , dont use momentum or Adam
+
+
