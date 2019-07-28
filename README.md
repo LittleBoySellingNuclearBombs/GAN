@@ -3,15 +3,14 @@ Demo&amp;Learning
 Environment: Anaconda 3.6.4 + 2070 + Tensorflow 1.14.0 (CPU & GPU) + Cuda10+cuDNN+Keras
 DATA
 ===========================================================================================
-referemce : https://github.com/CodePlay2016/GAN_learn/tree/master/HW3
 Extra Data Download :
 https://drive.google.com/file/d/1PIMW6Cv2r4X95nwCqZ14AcgJszm5nMk3/view
+
 Reference:
 ============================================================================================
-
+https://github.com/CodePlay2016/GAN_learn/tree/master/HW3
 https://github.com/d31003/MLDS_2019spring/tree/master/HW3/3-1
 Different GAN with keras: https://github.com/eriklindernoren/Keras-GAN
-
 
 Result(GAN):
 ============================================================================================
