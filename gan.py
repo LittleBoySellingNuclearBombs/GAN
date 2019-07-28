@@ -127,12 +127,14 @@ class GAN(object):
             print ('epoch: %d, [Discriminator :: d_loss: %f], [ Generator :: loss: %f]' % (cnt, d_loss[0], g_loss))
             
             if (cnt) % 2500 == 0 :
+                #model path
                 self.D.save(os.getcwd() + '/model/gan_D_{}.h5'.format(cnt + 1))
                 self.G.save(os.getcwd() + '/model/gan_G_{}.h5'.format(cnt+1 ))
 
  
 if __name__ == '__main__': 
-    IMGs=np.load('real_images.npy')
+    #u need to creat the folder "output" to store the imgs from G,and folder"model"to store the model
+    IMGs=np.load('real_images.npy')#read the real_images.py to creat this file 
     # reshape to -1 - 1
     X_train = (IMGs.astype(np.float32) - 127.5) / 127.5
     gan = GAN()
