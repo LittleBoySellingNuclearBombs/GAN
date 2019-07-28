@@ -24,10 +24,16 @@ it so difficulty to training (vanishing gradient)& it is easily  mode collapse
 Result(WGAN):
 =============================================================================================
 solve the problem "vanishing gradient" & "mode collapse"
-just :
+
+different to GAN:
+
 1.remove the sigmoid in the last layer in D
+
 2.remove log
+
 3.setting the weight between -a and a
+
 4.using RMSProp,SGD and so on , dont use momentum or Adam
+
 
 
