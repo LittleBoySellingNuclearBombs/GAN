@@ -10,7 +10,8 @@ Reference:
 ============================================================================================
 https://github.com/CodePlay2016/GAN_learn/tree/master/HW3
 https://github.com/d31003/MLDS_2019spring/tree/master/HW3/3-1
-#Different GAN with keras: https://github.com/eriklindernoren/Keras-GAN
+
+Different GAN with keras: https://github.com/eriklindernoren/Keras-GAN
 
 Result(GAN):
 ============================================================================================
