@@ -54,5 +54,6 @@ add the label with noise to training :
 
 5blonde hair green eyes
 
-![image](https://user-images.githubusercontent.com/20764935/62005089-818d2b00-b160-11e9-8e9e-9afcfe2e9fa6.png)
-![image](https://user-images.githubusercontent.com/20764935/62005090-8651df00-b160-11e9-9087-39065144533b.png)
+![image](https://user-images.githubusercontent.com/20764935/62018161-20129e00-b1ec-11e9-9441-9d7ff2bbdab5.png)
+![image](https://user-images.githubusercontent.com/20764935/62018230-65cf6680-b1ec-11e9-9c9e-a545c649f927.png)
+
